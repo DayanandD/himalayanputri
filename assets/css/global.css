@@ -1,0 +1,7 @@
+#cartData h3:after{
+    content: url('../../assets/images/close.png');
+    position: relative;
+    display: inline-flex;
+    float: right;
+    cursor: pointer;
+  }
